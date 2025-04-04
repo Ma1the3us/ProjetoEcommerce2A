@@ -1,6 +1,6 @@
 ﻿namespace ProjetoEcommerce2A.Models
 {
-    public class ClienteClass
+    public class Cliente
     {
         public int CodCli {get; set; }
         public string? NomeCli { get; set; }
